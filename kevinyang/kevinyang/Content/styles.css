@@ -1,0 +1,57 @@
+﻿body {
+    padding-bottom: 20px;
+    background-color: #E8E8EA;
+
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.wrapper {
+    width: 960px;
+    padding-bottom:80px;
+    display:block;
+}
+
+.bottomNavigation {
+    text-align: center;
+    height:80px;
+    position:absolute;
+    bottom:0;
+    left:0;
+    width:100%
+}
+
+#about {
+    display: inline;
+}
+
+#projects {
+    display: inline;
+}
+
+#orgs {
+    display: inline;
+}
+
+#courses {
+    display: inline;
+}
+
+#linkedin {
+    display: inline; 
+}
+
+#contact {
+    display:inline;
+}
